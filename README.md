@@ -1,7 +1,7 @@
 # fullpage-nuxt
 
 [![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
+[![npm downloads](https://img.shields.io/npm/dt/fullpage-nuxt.svg?style=flat-square)](https://npmjs.com/package/fullpage-nuxt)
 
 > Nuxt module for [fullpage-vue](https://www.npmjs.com/package/fullpage-vue) plugin. 
 A by-page scroll, support horizontal scroll and vertical scroll, support all the animation instructions of animate.css.
